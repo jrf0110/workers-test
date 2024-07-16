@@ -74,3 +74,4 @@ router.all('*', () => new Response('404, not found!', { status: 404 }));
 export default {
 	fetch: router.handle,
 };
+console.log('test');\n
