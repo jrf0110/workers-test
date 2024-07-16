@@ -7,7 +7,7 @@ const router = Router();
 Our index route, a simple hello world.
 */
 router.get('/', () => {
-	return new Response('Hello, banda!!!!');
+	return new Response('Hello, banda!!!!!');
 });
 
 /*
