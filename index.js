@@ -75,3 +75,4 @@ export default {
 	fetch: router.handle,
 };
 console.log('test');\n
+console.log('test');\n
